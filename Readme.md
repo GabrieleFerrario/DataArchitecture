@@ -1,7 +1,7 @@
 # Streaming Data Pipeline
 
 
-This is a project for the course Data Architecture from Università di Milano Bicocca.
+This is a project for the course Data Architecture from University Milano Bicocca.
 
 ### Goals:
 - Real-time streaming data management and collection
